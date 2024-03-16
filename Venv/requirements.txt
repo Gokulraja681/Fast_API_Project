@@ -1,0 +1,6 @@
+fastapi
+flask
+pymongo
+passlib
+uvicorn
+bcrypt
